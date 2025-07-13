@@ -4,7 +4,8 @@
 
 Test the Library API easily using this Postman collection:
 
-🔗 [Click here to view the collection]([https://documenter.getpostman.com/view/12345678/abcdefg](https://documenter.getpostman.com/view/34759469/2sB34foMGL))
+🔗 [Click here to view the collection](https://documenter.getpostman.com/view/34759469/2sB34foMGL)
+
 
 # How to run in own system
 
