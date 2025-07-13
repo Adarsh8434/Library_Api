@@ -5,6 +5,6 @@
 Before running the project, make sure to set your **MySQL database credentials** in the src/main/resources/application.properties` file:
 
 
-spring.datasource.url=jdbc:mysql://localhost:3306/library_db
+spring.datasource.url=jdbc:mysql://localhost:3306/library
 spring.datasource.username=YOUR_USERNAME
 spring.datasource.password=YOUR_PASSWORD
